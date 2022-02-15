@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\obj\Debug\net6.0\Exercicio_Heranca.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\obj\Debug\net6.0\Exercicio_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\obj\Debug\net6.0\Exercicio_Heranca.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\obj\Debug\net6.0\Exercicio_Heranca.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\obj\Debug\net6.0\Exercicio_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\bin\Debug\net6.0\Exercicio_Heranca.exe
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\bin\Debug\net6.0\Exercicio_Heranca.deps.json
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\bin\Debug\net6.0\Exercicio_Heranca.runtimeconfig.json
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\bin\Debug\net6.0\Exercicio_Heranca.dll
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\bin\Debug\net6.0\ref\Exercicio_Heranca.dll
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\bin\Debug\net6.0\Exercicio_Heranca.pdb
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\obj\Debug\net6.0\Exercicio_Heranca.dll
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\obj\Debug\net6.0\ref\Exercicio_Heranca.dll
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\obj\Debug\net6.0\Exercicio_Heranca.pdb
+C:\Users\Usuario\Desktop\Visualstudio\Exercicio_Heranca\Exercicio_Heranca\obj\Debug\net6.0\Exercicio_Heranca.genruntimeconfig.cache
